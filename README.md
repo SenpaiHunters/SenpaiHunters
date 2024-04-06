@@ -4,7 +4,7 @@
 
 <img src="/assets/banner.png" alt="Banner" style="border-radius: 10px; max-width: 100%; height: auto;">
 
-I'm Kami, a self-taught developer dedicated to crafting engaging user experiences and productivity tools. My journey in tech spans from creating intuitive browser extensions to developing robust applications. I'm particularly passionate about open-source projects and the collaborative spirit of the tech community.
+I'm Kami, a self-taught developer dedicated to crafting engaging user experiences and productivity tools. My journey in tech spans from creating intuitive browser extensions to developing robust applications, you can check my work out below. I'm particularly passionate about open-source projects and the collaborative spirit of the tech community.
 
 Looking to collaborate or curious about my work? Feel free to connect!
 
@@ -35,7 +35,7 @@ Your support fuels my late-night coding sessions - every coffee is greatly appre
 ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![Languages](https://img.shields.io/badge/Languages-Swift_JS_Shell-informational?style=flat-square&logo=swift&logoColor=white&color=2bbc8a)
-![Chromium](https://img.shields.io/badge/Browser-Chromium-informational?style=flat-square&logo=google-chrome&logoColor=white&color=2bbc8a)
+![Chromium](https://img.shields.io/badge/Browser-Arc-informational?style=flat-square&logo=arc&logoColor=white&color=2bbc8a)
 
 ---
 
