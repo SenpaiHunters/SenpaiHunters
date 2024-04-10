@@ -45,7 +45,7 @@ Your support fuels my late-night coding sessions - every coffee is greatly appre
 
 - **[SpotOn](https://github.com/SenpaiHunters/SpotOn)** - Enhance your Spotify experience with this browser extension.
   - **[SpotOn Themes](https://github.com/SenpaiHunters/SpotOnThemes)** - Custom themes to personalize your SpotOn experience.
-- **[Clakr](https://github.com/senpauhunters/clakr)** - A Swift-based macOS auto-clicker for gamers and developers alike.
+- **[Clakr](https://github.com/SenpaiHunters/clakr)** - A Swift-based macOS auto-clicker for gamers and developers alike.
 - **[Clakr Tester](https://clakr-delta.vercel.app/)** - Test the efficiency of Clakr with this web-based tool.
 - **[Propper macOS](https://propper-macos.vercel.app/)** - A utility to optimize your macOS experience.
 - **[Blobs](https://blobsite.vercel.app/)** - A creative project exploring web animations and interactivity.
