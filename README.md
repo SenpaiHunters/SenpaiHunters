@@ -1,55 +1,147 @@
 <div align="center">
 
-# Kami
+# 👋 Hey, I'm Kami
 
-<img src="/assets/banner.png" alt="Banner" style="border-radius: 10px; max-width: 100%; height: auto;">
+<img src="/assets/banner.png" alt="Kami's Banner" width="100%" style="border-radius: 12px; margin: 20px 0;">
 
-I'm Kami, a self-taught developer dedicated to crafting engaging user experiences and productivity tools. My journey in tech spans from creating intuitive browser extensions to developing robust applications, you can check my work out below. I'm particularly passionate about open-source projects and the collaborative spirit of the tech community.
+**Self-taught developer crafting intuitive experiences and productivity tools**
 
-Looking to collaborate or curious about my work? Feel free to connect!
+*Passionate about open-source, macOS development, and building tools that make life easier*
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/325178652033679362)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kami.dev)
+<br>
 
-## Support My Work
+[![Discord](https://img.shields.io/badge/💬_Chat_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/325178652033679362)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/kami.dev)
+[![GitHub Sponsors](https://img.shields.io/badge/💖_Sponsor_Me-A0522D?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/senpaihunters)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Site-D2691E?style=for-the-badge)](https://kami-dev.vercel.app/)
 
-Your support fuels my late-night coding sessions - every coffee is greatly appreciated!
+</div>
 
-<a href="https://www.buymeacoffee.com/KamiAMVS">
-  <img src="/assets/black-button.png" alt="Buy Me A Coffee" style="height: 100px;">
-</a>
+---
 
-## GitHub Statistics
+## 🚀 What I Do
+
+I specialize in creating **macOS applications**, **browser extensions**, and **web tools** that enhance productivity and user experience. My journey spans from Swift development to JavaScript wizardry, always with a focus on clean, intuitive design.
+
+### 🎯 Current Focus
+- Building native macOS applications with Swift
+- Developing browser extensions for enhanced web experiences  
+- Contributing to open-source projects
+- Creating developer tools and utilities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Tools & Environment
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Arc](https://img.shields.io/badge/Arc_Browser-FCBF00?style=flat-square&logo=arc&logoColor=black)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 [SpotOn](https://github.com/SenpaiHunters/SpotOn)
+**Browser Extension for Spotify**
+- Enhances Spotify web experience
+- Custom themes and UI improvements
+- Active community of users
+
+*Companion: [SpotOn Themes](https://github.com/SenpaiHunters/SpotOnThemes)*
+
+</td>
+<td width="50%">
+
+### 🪟 [Loop](https://github.com/MrKai77/Loop)
+**macOS Window Manager**
+- Swift-based window management
+- Intuitive keyboard shortcuts
+- Collaborative development
+
+*Contributing developer*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✨ [Luminare](https://github.com/MrKai77/Luminare)
+**macOS UI Framework**
+- Beautiful Swift framework
+- Modern macOS design patterns
+- Developer-friendly APIs
+
+</td>
+<td width="50%">
+
+### 🖱️ [Clakr](https://github.com/SenpaiHunters/clakr)
+**macOS Auto-Clicker**
+- Gaming and development utility
+- Efficient Swift implementation
+- Web-based efficiency tester
+
+*Try it: [Clakr Tester](https://clakr-delta.vercel.app/)*
+
+</td>
+</tr>
+</table>
+
+### 🔧 Additional Tools
+- **[Propper macOS](https://propper-macos.vercel.app/)** - macOS optimization utility
+- **[My Developer Site](https://kamidevs.com)** - Personal portfolio (WIP)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=senpaihunters&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaihunters&theme=dark&layout=compact&exclude_repo=SpotOnThemes&count_private=true" height="180em">
 
-## Technologies and Tools
-
-![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![Languages](https://img.shields.io/badge/Languages-Swift_JS_Shell-informational?style=flat-square&logo=swift&logoColor=white&color=2bbc8a)
-![Browser](https://img.shields.io/badge/Browser-Arc-informational?style=flat-square&logo=arc&logoColor=white&color=2bbc8a)
-
 </div>
 
-## Featured Projects
+---
 
-- **[SpotOn](https://github.com/SenpaiHunters/SpotOn)** - Enhance your Spotify experience with this browser extension.
-  - **[SpotOn Themes](https://github.com/SenpaiHunters/SpotOnThemes)** - Custom themes to personalize your SpotOn experience.
-- **[Loop](https://github.com/MrKai77/Loop)** - A Swift-based macOS window manager app I help develop.
-- **[Luminare](https://github.com/MrKai77/Luminare)** - A Swift-based macOS framework, made to look beautiful.
-- **[Clakr](https://github.com/SenpaiHunters/clakr)** - A Swift-based macOS auto-clicker for gamers and developers alike.
-  - **[Clakr Tester](https://clakr-delta.vercel.app/)** - Test the efficiency of Clakr with this web-based tool.
-- **[Propper macOS](https://propper-macos.vercel.app/)** - A utility to optimize your macOS experience.
-- **[My dev site](https://kami-dev.vercel.app/)** - My WIP developer site!
+## 💬 Let's Connect
 
-## Connect with Me
-
-I'm always open to discussing new ideas, tech trends, or potential collaborations. Drop me a message!
+I'm always excited to discuss new ideas, collaborate on projects, or chat about the latest in tech. Whether you're interested in my work, need help with a project, or just want to say hi – I'd love to hear from you!
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/325178652033679362)
+### 🤝 Get In Touch
+
+[![Discord](https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/325178652033679362)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@kamidevs.com)
+
+### ☕ Support My Work
+
+If you find my projects helpful, consider supporting me! Your support keeps me motivated during those late-night coding sessions.
+
+[![GitHub Sponsors](https://img.shields.io/badge/💖_Sponsor_on_GitHub-A0522D?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/senpaihunters)
+
+<a href="https://www.buymeacoffee.com/KamiAMVS">
+  <img src="/assets/black-button.png" alt="Buy Me A Coffee" height="60">
+</a>
+
+---
+
+*"What is the meaning of life? To live. What is the meaning of death? To give meaning to life."*
 
 </div>
