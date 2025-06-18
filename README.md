@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/💬_Chat_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/325178652033679362)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/kami.dev)
 [![GitHub Sponsors](https://img.shields.io/badge/💖_Sponsor_Me-A0522D?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/senpaihunters)
-[![Website](https://img.shields.io/badge/🌐_Visit_My_Site-D2691E?style=for-the-badge)](https://kami-dev.vercel.app/)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Site-D2691E?style=for-the-badge)](https://kamidevs.com)
 
 </div>
 
